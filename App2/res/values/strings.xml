@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">Faculty Navigator</string>
+    <string name="AppName">Faculty Navigator</string>
+    <string name="Objective">The Application made with an objective to show faculties of TUD in 
+        terms of location.\n \nThis personal use application allow users to create the details of their choice
+        and application will show you in map.Additionally, application is GPS based and Netowrk based,so user
+        can use it offline too.It have all basic feature related to online maps.</string>
+    <string name="TeamMember">Team Members: Vivek Tripathi and Karolina Puscian</string>
+    <string name="Instruction">Enter Application</string>
+    <!-- second screen -->
+    <string name="GetMap">Get Online Map</string>
+    <string name="MyLocation">My Location</string>
+    <string name="AddFaculty">Add Faculty Details</string>
+    <string name="AllFaculty">List all Faculty</string>
+    <string name="SearchFaculty">Search Faculty</string>
+    <!-- b1 button screen -->
+    <string name="backHome">Home</string>
+    <!-- b3 button screens -->
+   <string name="action_settings">Settings</string>
+   <string name="Add_New">Add New Faculty Here</string>
+   <string name="edit">Edit Contact</string>
+   <string name="delete">Delete Contact</string>
+   <string name="title_activity_display_contact">DisplayContact</string>
+   <string name="name">Faculty Name</string>
+   <string name="phone">Phone</string>
+   <string name="email">Address/Street</string>
+   <string name="street">Immediate Contact</string>
+   <string name="country">City/State</string>
+   <string name="latitude">Latitude</string>
+   <string name="longitude">Longitude</string>
+   <string name="save">Save Contact</string>
+   <string name="deleteContact">Are you sure, you want to delete it.</string>
+   <string name="yes">Yes</string>
+   <string name="no">No</string>
+    <!-- b4 button screens -->
+    <string name="Lati">Latitude :</string>
+    <string name="Longi">Longitude :</string>
+
+</resources>
